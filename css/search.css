@@ -1,0 +1,9 @@
+#result{
+    display: none;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+    position: relative;
+    top: 25px;
+    right: 25px;
+}
